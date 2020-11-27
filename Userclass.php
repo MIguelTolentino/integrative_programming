@@ -2,7 +2,7 @@
 
 class User
 {
-    // properties
+    // Properties
     public $name;
     public $username;
     public $email;
